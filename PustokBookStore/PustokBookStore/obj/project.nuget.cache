@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ciy2DdznomHMX/0J9rhrb6CIiu49+HHv+KmDm2uuAUOBzLESS69jJFSo1d9lNPswNYGl9bj7MNIWPOmFuk1Wg==",
+  "dgSpecHash": "gBUgWql/XoGKd1+YnudWogCG19x+dT5GwbykbFGpyhXLMwkOSlMu3W2mLLV+a7HufJHB779T5T3ROkuVB//PeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User Widnows 10 Home\\Documents\\C#\\PustokBookStore\\PustokBookStore\\PustokBookStore.csproj",
+  "projectFilePath": "C:\\Users\\User Widnows 10 Home\\Documents\\C#\\PustokStart-PartialView\\PustokBookStore\\PustokBookStore\\PustokBookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User Widnows 10 Home\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User Widnows 10 Home\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\PustokBookStore",
+    "\\PustokBookStore\\Controllers",
     "\\PustokBookStore\\Views",
     "\\PustokBookStore\\Views\\Home"
   ],
-  "SelectedNode": "\\PustokBookStore\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\PustokBookStore\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
